@@ -1,0 +1,105 @@
+body {
+    background: url('https://www.boletinsalesiano.com.ar/wp-content/uploads/2024/05/jun2024_IA_ok.jpg') no-repeat center center fixed;
+    background-size: cover;
+  }
+  
+  .text-light {
+    color: #f8f9fa;
+  }
+  
+  .bg-light {
+    background-color: rgba(255, 255, 255, 0.8) !important;
+  }
+  
+  .btn-predict {
+    background-color: #6c63ff;
+    border-color: #6c63ff;
+    color: #fff;
+  }
+  
+  .btn-predict:hover {
+    background-color: #554bd2;
+    border-color: #554bd2;
+  }
+  
+  .btn-share {
+    background-color: #00bcd4;
+    border-color: #00bcd4;
+    color: #fff;
+  }
+  
+  .btn-share:hover {
+    background-color: #0097a7;
+    border-color: #0097a7;
+  }
+  
+  .btn-start {
+    background-color: #4caf50;
+    border-color: #4caf50;
+    color: #fff;
+  }
+  
+  .btn-start:hover {
+    background-color: #388e3c;
+    border-color: #388e3c;
+  }
+  
+  .btn-stop {
+    background-color: #f44336;
+    border-color: #f44336;
+    color: #fff;
+  }
+  
+  .btn-stop:hover {
+    background-color: #d32f2f;
+    border-color: #d32f2f;
+  }
+  
+  .w-100 {
+    width: 100%;
+  }
+  
+  .w-48 {
+    width: 48%;
+  }
+  
+  .mt-2 {
+    margin-top: .5rem !important;
+  }
+  
+  .mt-4 {
+    margin-top: 1.5rem !important;
+  }
+  
+  .mb-4 {
+    margin-bottom: 1.5rem !important;
+  }
+  
+  .shadow {
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15) !important;
+  }
+  
+  .rounded {
+    border-radius: .5rem !important;
+  }
+  
+  .text-dark {
+    color: #343a40 !important;
+  }
+  
+  .border {
+    border: 1px solid #dee2e6 !important;
+  }
+  
+  .border-0 {
+    border: 0 !important;
+  }
+  
+  .table-responsive {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  
+  
